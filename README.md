@@ -46,9 +46,6 @@ Sample Superstore Dataset
 ---
 
 ## 📈 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
 ![Dashboard](Screenshot%202026-07-18%20204813.png)
 
 ---
