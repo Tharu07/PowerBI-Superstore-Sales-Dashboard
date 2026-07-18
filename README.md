@@ -49,7 +49,7 @@ Sample Superstore Dataset
 
 > Add your dashboard screenshot here.
 
-![Dashboard](C:\Users\ADMIN\OneDrive\Documents\powerBI- dashboard\PowerBI-Superstore-Sales-Dashboard)
+![Dashboard](Screenshot%202026-07-18%20204813.png)
 
 ---
 
