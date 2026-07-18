@@ -49,7 +49,7 @@ Sample Superstore Dataset
 
 > Add your dashboard screenshot here.
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](C:\Users\ADMIN\OneDrive\Documents\powerBI- dashboard\PowerBI-Superstore-Sales-Dashboard)
 
 ---
 
