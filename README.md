@@ -49,7 +49,7 @@ Sample Superstore Dataset
 
 > Add your dashboard screenshot here.
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Screenshot%202026-07-18%20204813.png)
 
 ---
 
